@@ -1,0 +1,6 @@
+Deteksi-Karton-FLI-1/
+runs/
+weights/
+yolo_dataset/
+yolo11n-seg.pt
+.venv/
